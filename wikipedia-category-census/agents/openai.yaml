@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wikipedia Category Census"
+  short_description: "Resume category crawls and validate filtered datasets"
+  default_prompt: "Use $wikipedia-category-census to crawl all subcategories of the specified Wikipedia roots, apply the requested criteria, and export a validated dataset."
